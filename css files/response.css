@@ -1,0 +1,14 @@
+@media screen and (min-width:841px) and (max-width:1010px) {
+    .left-nav{
+        width:70%;
+    }
+    .nav-title{
+        width: 30%;
+    }
+    .left-items{
+        width: 100%;
+    }
+    .left-items>li{
+        width:inherit;
+    }
+}
